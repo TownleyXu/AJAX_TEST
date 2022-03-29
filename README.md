@@ -1,0 +1,3 @@
+# AJAX_TEST
+使用AJAX加载HTML JS CSS XML JSON
+模拟分页操作
